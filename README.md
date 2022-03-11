@@ -16,4 +16,4 @@ to have a cycle. So nodes that have already been discovered should not be redisc
 source vertex. 
 
 Breadth First Search from the src vertex would take O(n) time, and since we repeat this for every node in the network, the inefficient
-solution would hence be O($n^2$) time.
+solution would hence be O(n^2) time.
